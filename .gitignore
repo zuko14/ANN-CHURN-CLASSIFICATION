@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.csv
+*.zip
+*.tar
+*.whl
+*.onnx
+*.npy
+*.pt
+*.ckpt
+.streamlit/
